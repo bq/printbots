@@ -9,10 +9,12 @@ In this repository you will find the source files for the **bq printbos**. If yo
 
 All the printbots are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
-Please read the LICENSE file for more details.
+Please read the LICENSE files for more details.
 
 <img src="images/beetle-imagen-1.png" width="300" align="center"> | <img src="images/beetle-imagen-1.png" width="300" align="center">
 :-------------: | :-------------:
-Printbot Beetle | Printbot Beetle
+[Printbot Beetle](http://diwo.bq.com/product/kit-printbot-beetle/)|[Printbot Beetle](http://diwo.bq.com/product/kit-printbot-beetle/) 
+
+
 
 
