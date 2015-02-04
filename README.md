@@ -10,12 +10,12 @@
 
 In this repository you will find the source files for the **bq printbots**. If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bq/printbots/issues)
 
-En este repositorio se encuentran los ficheros fuente de los **Printbots de bq**. Si echas en falta algo, no dudes en [ rellenar una tarea en github](https://github.com/bq/printbots/issues)
+En este repositorio se encuentran los ficheros fuente de los **Printbots de bq**. Si echas en falta algo, no dudes en [rellenar una tarea en github](https://github.com/bq/printbots/issues)
 
 
-<img src="images/beetle-imagen-1.png" width="300" align="center"> | <img src="images/beetle-imagen-1.png" width="300" align="center">
+<img src="images/renacuajo-image-1.png" width="300" align="center"> | <img src="images/beetle-imagen-1.png" width="300" align="center">
 :-------------: | :-------------:
-[Printbot Beetle](http://diwo.bq.com/product/kit-printbot-beetle/)|[Printbot Beetle](http://diwo.bq.com/product/kit-printbot-beetle/) 
+[Printbot Renacuajo](http://diwo.bq.com/montaje-del-printbot-renacuajo/)|[Printbot Beetle](http://diwo.bq.com/product/kit-printbot-beetle/) 
 
 
 # License 
