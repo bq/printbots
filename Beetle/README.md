@@ -49,10 +49,10 @@ This printbot is licensed under a [Creative Commons Attribution-ShareAlike 4.0 I
 Este printbot tienen una licencia [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Por favor, lea los ficheros LICENSE para más detalles
 
 # CREDITS
-* Original design (Beetle V1.0) was made by Jon Goitia. It is a derivative of his own [mini rover printbot](http://www.thingiverse.com/thing:18392)
-* David Sanchez: migration to freecad of the rear wheels and servo-screw-cover. Adaptation to Beetle v1.2
-* Juan Gonzalez (Obijuan): Migration to freecad of the beetle parts. Adaptation to v1.2. New assembly in Freecad
-* Ana de Prado: programming examples
+* **Jon Goitia**: Original design (Beetle V1.0). It is a derivative of his own [mini rover printbot](http://www.thingiverse.com/thing:18392)
+* **David Sanchez**: migration to freecad of the rear wheels and servo-screw-cover. Adaptation to Beetle v1.2
+* **Juan Gonzalez** (Obijuan): Migration to freecad of the beetle parts. Adaptation to v1.2. New assembly in Freecad
+* **Ana de Prado**: programming examples
 
 
 
