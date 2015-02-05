@@ -40,6 +40,19 @@ In the Freecad folder there is an Assembly of the printbot Beetle. The source fi
 
   **All the source files for the parts in the assembly are available**
 
+# Robopad++: Controlling the Robot from your android smartphone
+
+<img src="images/beetle-robopad++.jpg" width="400" align = "center">
+
+The printbot beetle can be controlled using your **smartphone**. You need a bluetooth module connected to your freaduino / Arduino board (or using the ZUM BT-328 which already include an embebbed bluetooth module)
+
+  Install the [Robopad++](https://github.com/bq/robopad-plusplus) app available from the Google play store. It is open source, released under the GPL license. Check the [robopad++ github](https://github.com/bq/robopad-plusplus)
+
+  You can find **more information on how to install and use this application** in [this Diwo post](http://diwo.bq.com/robopad-3/)
+
+<img src="images/robopad++-1.png" width="400" align = "center">
+
+
 # License 
 
 <img src="../images/by-sa.png" width="200" align = "center">
@@ -51,8 +64,10 @@ Este printbot tienen una licencia [Creative Commons Attribution-ShareAlike 4.0 I
 # CREDITS
 * **Jon Goitia**: Original design (Beetle V1.0). It is a derivative of his own [mini rover printbot](http://www.thingiverse.com/thing:18392)
 * **David Sanchez**: migration to freecad of the rear wheels and servo-screw-cover. Adaptation to Beetle v1.2
-* **Juan Gonzalez** (Obijuan): Migration to freecad of the beetle parts. Adaptation to v1.2. New assembly in Freecad
 * **Ana de Prado**: programming examples
+* **Estefanía Sarasola**: Robopad++ app
+* **Juan Gonzalez** (Obijuan): Migration to freecad of the beetle parts. Adaptation to v1.2. New assembly in Freecad
+
 
 
 
