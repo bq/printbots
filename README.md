@@ -20,7 +20,10 @@ En este repositorio se encuentran los ficheros fuente de los **Printbots de bq**
 
 # License 
 
+<img src="images/by-sa.png" width="200" align = "center">
+
 All the printbots are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Please read the LICENSE files for more details.
 
 Todos los printbots tienen la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Por favor, lea los ficheros LICENSE para más detalles
+
 
