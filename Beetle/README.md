@@ -44,7 +44,7 @@ In the Freecad folder there is an Assembly of the printbot Beetle. The source fi
 
 <img src="images/beetle-robopad++.jpg" width="400" align = "center">
 
-The printbot beetle can be controlled using your **smartphone**. You need a bluetooth module connected to your freaduino / Arduino board (or using the ZUM BT-328 which already include an embebbed bluetooth module)
+The printbot beetle can be controlled using your **smartphone**. You need a bluetooth module connected to the freaduino / Arduino board (or using the ZUM BT-328 which already include an embebbed bluetooth module)
 
   Install the [Robopad++](https://github.com/bq/robopad-plusplus) app available from the Google play store. It is open source, released under the GPL license. Check the [robopad++ github](https://github.com/bq/robopad-plusplus)
 
