@@ -8,11 +8,11 @@
 
 # Printbot Beetle
 
-<img src="images/rencuajo-0.png" width="400" align="center">
+<img src="images/renacuajo-0.png" width="400" align="center">
 
-In this repository you will find the source files for the [bq Printbot Beetle](http://diwo.bq.com/product/kit-printbot-beetle/). If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bq/printbots/issues)
+In this repository you will find the source files for the [bq Printbot Renacuajo](http://diwo.bq.com/montaje-del-printbot-renacuajo/). If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bq/printbots/issues)
 
-En este repositorio se encuentran los ficheros fuente del [Printbot Beetle de bq](http://diwo.bq.com/product/kit-printbot-beetle/). Si echas en falta algo, no dudes en [rellenar una tarea en github](https://github.com/bq/printbots/issues)
+En este repositorio se encuentran los ficheros fuente del [Printbot Renacuajo de bq](http://diwo.bq.com/montaje-del-printbot-renacuajo/). Si echas en falta algo, no dudes en [rellenar una tarea en github](https://github.com/bq/printbots/issues)
 
 <img src="images/renacuajo-1.png" width="400" align="center">
 <img src="images/renacuajo-2.png" width="400" align="center">
@@ -59,8 +59,8 @@ Este printbot tienen una licencia [Creative Commons Attribution-ShareAlike 4.0 I
 
 # CREDITS
 * **Miguel Angel de Frutos** (MAF): Original design
-* The wheels have been derived from the [protobot](http://www.thingiverse.com/thing:18264), by Alverto Valero, Mario Almagro and Nieves Cubo
-* Sniffer for the ZUM double-IR sensor, by Pedro de Oro 
+* The wheels have been derived from the [protobot](http://www.thingiverse.com/thing:18264), by **Alverto Valero**, **Mario Almagro** and **Nieves Cubo**
+* **Pedro de Oro**: Sniffer for the ZUM double-IR sensor
 * **Ana de Prado**: programming examples
 * **Estefanía Sarasola**: Robopad++ app
 * **Juan Gonzalez** (Obijuan): Migration to freecad. Assembly in Freecad
