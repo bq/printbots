@@ -38,7 +38,7 @@ In the Freecad folder there is an Assembly of the printbot Renacuajo. The source
 
 # Robopad++: Controlling the Robot from your android smartphone
 
-<img src="images/beetle-robopad++.jpg" width="400" align = "center">
+<img src="../Beetle/images/beetle-robopad++.jpg" width="400" align = "center">
 
 The printbot Renacuajo can be controlled using your **smartphone**. You need a bluetooth module connected to the freaduino / Arduino board (or using the ZUM BT-328 which already include an embebbed bluetooth module)
 
@@ -46,7 +46,7 @@ The printbot Renacuajo can be controlled using your **smartphone**. You need a b
 
   You can find **more information on how to install and use this application** in [this Diwo post](http://diwo.bq.com/robopad-3/)
 
-<img src="images/robopad++-1.png" width="400" align = "center">
+<img src="images/Renacuajo-robotpad++-1.png" width="400" align = "center">
 
 
 # License 
