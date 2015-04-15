@@ -6,7 +6,7 @@
 </tr>
 </table>
 
-# Printbot Beetle
+# Printbot Renacuajo
 
 <img src="images/renacuajo-0.png" width="400" align="center">
 
