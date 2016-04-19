@@ -39,6 +39,8 @@ En este repositorio se encuentran los ficheros fuente del [Printbot  Evolution d
 
  * `Skins_layout` : Skin layouts files
 
+ * `addons` : New pieces and other stuff to expand the Evolution
+
  * `Evolution-BOM.ods`: Evolution Bill of Materials. Document for [LibreOffice](https://www.libreoffice.org/).
 
 # Evolution Assembly in Freecad
@@ -46,7 +48,7 @@ En este repositorio se encuentran los ficheros fuente del [Printbot  Evolution d
 In the Freecad folder there is an Assembly of the printbot Evolution. The source files for the vitamins (servos, board, nuts, bolts, etc) are available in the [Freecad part library](https://github.com/yorikvanhavre/FreeCAD-library)
 
 
-# License 
+# License
 
 <p align="center">
 <img src="Media/by-sa.png" width="40%">
@@ -60,13 +62,7 @@ Este printbot tienen una licencia [Creative Commons Attribution-ShareAlike 4.0 I
 
 * **Pedro de Oro Martín**: Printbot original design and skins design; Dragon and Scorpion.
 * **Federico Figueiredo de Sousa**: Skins design; Elephant and Shark.
-* **Ana de Prado Navarrete**: Programming examples
-* **Sonia Verdú Calatayud and Leonor Sanahuja**: Layout of templates
-
-
-
-
-
-
-
-
+* **Ana de Prado Navarrete**: Programming examples.
+* **Sonia Verdú Calatayud and Leonor Sanahuja**: Layout of templates.
+* **Julián Caro Linares**: Bumper design.
+* **Jokin Lacalle**: Derivative acrylic base adapted for individuals IR.
