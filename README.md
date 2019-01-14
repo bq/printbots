@@ -8,6 +8,8 @@
 
 # BQ Printbots
 
+Dans ce référentiel, vous trouverez les fichiers sources des **bq printbots**. S'il vous manque quelque chose, n'hésitez pas à [déposer un numéro sur github](https://github.com/bq/printbots/issues)
+
 In this repository you will find the source files for the **bq printbots**. If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bq/printbots/issues)
 
 En este repositorio se encuentran los ficheros fuente de los **Printbots de bq**. Si echas en falta algo, no dudes en [rellenar una tarea en github](https://github.com/bq/printbots/issues)
@@ -25,6 +27,8 @@ En este repositorio se encuentran los ficheros fuente de los **Printbots de bq**
 # License 
 
 <img src="images/by-sa.png" width="200" align = "center">
+
+Tous les printbots sont sous licence [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Veuillez lire les fichiers de LICENCE pour plus de détails.
 
 All the printbots are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Please read the LICENSE files for more details.
 
